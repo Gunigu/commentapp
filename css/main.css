@@ -1,0 +1,17 @@
+
+input {
+   position: relative;
+   left: 30%;
+	box-sizing: border-box;
+}
+
+button {
+  position: relative;
+  left: 30%;
+}
+
+h1 {
+   font-family: sans-serif;
+  position: relative;
+ left: 30%;
+}
